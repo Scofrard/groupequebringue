@@ -1,1 +1,1 @@
-console.log('SPA');
+console.log("SPA");
